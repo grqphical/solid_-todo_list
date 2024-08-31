@@ -1,0 +1,9 @@
+.task {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.delete {
+  margin: 10px;
+}
